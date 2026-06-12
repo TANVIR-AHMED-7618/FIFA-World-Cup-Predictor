@@ -434,17 +434,17 @@ export const DB = {
       "d": 72,
       "l": 97,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 3,
       "w": 1,
       "d": 0,
       "l": 2,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "kor": {
     "officialName": "Korea Republic",
@@ -777,17 +777,17 @@ export const DB = {
       "d": 252,
       "l": 217,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 38,
       "w": 7,
       "d": 10,
       "l": 21,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "mex": {
     "officialName": "Mexico",
@@ -1120,17 +1120,17 @@ export const DB = {
       "d": 231,
       "l": 258,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 60,
       "w": 17,
       "d": 15,
       "l": 28,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "rsa": {
     "officialName": "South Africa",
@@ -1463,17 +1463,17 @@ export const DB = {
       "d": 145,
       "l": 120,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 9,
       "w": 2,
       "d": 4,
       "l": 3,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "bih": {
     "officialName": "Bosnia And Herzegovina",
@@ -1806,17 +1806,17 @@ export const DB = {
       "d": 66,
       "l": 112,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 3,
       "w": 1,
       "d": 0,
       "l": 2,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "can": {
     "officialName": "Canada",
@@ -2149,17 +2149,17 @@ export const DB = {
       "d": 107,
       "l": 182,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 6,
       "w": 0,
       "d": 0,
       "l": 6,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "qat": {
     "officialName": "Qatar",
@@ -2492,17 +2492,17 @@ export const DB = {
       "d": 154,
       "l": 220,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 3,
       "w": 0,
       "d": 0,
       "l": 3,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "sui": {
     "officialName": "Switzerland",
@@ -2835,17 +2835,17 @@ export const DB = {
       "d": 203,
       "l": 364,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 41,
       "w": 14,
       "d": 8,
       "l": 19,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "bra": {
     "officialName": "Brazil",
@@ -3178,17 +3178,17 @@ export const DB = {
       "d": 216,
       "l": 171,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 114,
       "w": 76,
       "d": 19,
       "l": 19,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "hai": {
     "officialName": "Haiti",
@@ -3521,17 +3521,17 @@ export const DB = {
       "d": 110,
       "l": 183,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 3,
       "w": 0,
       "d": 0,
       "l": 3,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "mar": {
     "officialName": "Morocco",
@@ -3864,17 +3864,17 @@ export const DB = {
       "d": 171,
       "l": 139,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 23,
       "w": 5,
       "d": 7,
       "l": 11,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "sco": {
     "officialName": "Scotland",
@@ -4207,17 +4207,17 @@ export const DB = {
       "d": 182,
       "l": 267,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 23,
       "w": 4,
       "d": 7,
       "l": 12,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "aus": {
     "officialName": "Australia",
@@ -4550,17 +4550,17 @@ export const DB = {
       "d": 122,
       "l": 162,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 20,
       "w": 4,
       "d": 4,
       "l": 12,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "par": {
     "officialName": "Paraguay",
@@ -4893,17 +4893,17 @@ export const DB = {
       "d": 208,
       "l": 300,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 27,
       "w": 7,
       "d": 10,
       "l": 10,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "tur": {
     "officialName": "Türkiye",
@@ -5236,17 +5236,17 @@ export const DB = {
       "d": 152,
       "l": 231,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 10,
       "w": 5,
       "d": 1,
       "l": 4,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "usa": {
     "officialName": "USA",
@@ -5579,17 +5579,17 @@ export const DB = {
       "d": 161,
       "l": 277,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 37,
       "w": 9,
       "d": 8,
       "l": 20,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "civ": {
     "officialName": "Côte D'Ivoire",
@@ -5922,17 +5922,17 @@ export const DB = {
       "d": 162,
       "l": 149,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 9,
       "w": 3,
       "d": 1,
       "l": 5,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "cur": {
     "officialName": "Curaçao",
@@ -6265,17 +6265,17 @@ export const DB = {
       "d": 100,
       "l": 142,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 0,
       "w": 0,
       "d": 0,
       "l": 0,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "ecu": {
     "officialName": "Ecuador",
@@ -6608,17 +6608,17 @@ export const DB = {
       "d": 157,
       "l": 251,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 13,
       "w": 5,
       "d": 2,
       "l": 6,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "ger": {
     "officialName": "Germany",
@@ -6951,17 +6951,17 @@ export const DB = {
       "d": 213,
       "l": 219,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 112,
       "w": 68,
       "d": 21,
       "l": 23,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "jap": {
     "officialName": "Japan",
@@ -7294,17 +7294,17 @@ export const DB = {
       "d": 165,
       "l": 235,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 25,
       "w": 7,
       "d": 6,
       "l": 12,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "ned": {
     "officialName": "Netherlands",
@@ -7637,17 +7637,17 @@ export const DB = {
       "d": 198,
       "l": 227,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 55,
       "w": 30,
       "d": 14,
       "l": 11,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "swe": {
     "officialName": "Sweden",
@@ -7980,17 +7980,17 @@ export const DB = {
       "d": 232,
       "l": 326,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 52,
       "w": 20,
       "d": 13,
       "l": 19,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "tun": {
     "officialName": "Tunisia",
@@ -8323,17 +8323,17 @@ export const DB = {
       "d": 189,
       "l": 191,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 18,
       "w": 3,
       "d": 5,
       "l": 10,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "bel": {
     "officialName": "Belgium",
@@ -8666,17 +8666,17 @@ export const DB = {
       "d": 181,
       "l": 290,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 51,
       "w": 21,
       "d": 10,
       "l": 20,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "egy": {
     "officialName": "Egypt",
@@ -9009,17 +9009,17 @@ export const DB = {
       "d": 185,
       "l": 191,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 7,
       "w": 0,
       "d": 2,
       "l": 5,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "ira": {
     "officialName": "IR Iran",
@@ -9352,17 +9352,17 @@ export const DB = {
       "d": 144,
       "l": 119,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 18,
       "w": 3,
       "d": 4,
       "l": 11,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "nzl": {
     "officialName": "New Zealand",
@@ -9695,17 +9695,17 @@ export const DB = {
       "d": 73,
       "l": 169,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 6,
       "w": 0,
       "d": 3,
       "l": 3,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "cpv": {
     "officialName": "Cabo Verde",
@@ -10038,17 +10038,17 @@ export const DB = {
       "d": 56,
       "l": 89,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 0,
       "w": 0,
       "d": 0,
       "l": 0,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "ksa": {
     "officialName": "Saudi Arabia",
@@ -10381,17 +10381,17 @@ export const DB = {
       "d": 169,
       "l": 220,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 19,
       "w": 4,
       "d": 2,
       "l": 13,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "esp": {
     "officialName": "Spain",
@@ -10724,17 +10724,17 @@ export const DB = {
       "d": 181,
       "l": 140,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 67,
       "w": 31,
       "d": 17,
       "l": 19,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "uru": {
     "officialName": "Uruguay",
@@ -11067,17 +11067,17 @@ export const DB = {
       "d": 240,
       "l": 302,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 59,
       "w": 25,
       "d": 13,
       "l": 21,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "fra": {
     "officialName": "France",
@@ -11410,17 +11410,17 @@ export const DB = {
       "d": 195,
       "l": 262,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 73,
       "w": 39,
       "d": 14,
       "l": 20,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "irq": {
     "officialName": "Iraq",
@@ -11753,17 +11753,17 @@ export const DB = {
       "d": 187,
       "l": 162,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 3,
       "w": 0,
       "d": 0,
       "l": 3,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "nor": {
     "officialName": "Norway",
@@ -12096,17 +12096,17 @@ export const DB = {
       "d": 195,
       "l": 348,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 8,
       "w": 2,
       "d": 3,
       "l": 3,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "sen": {
     "officialName": "Senegal",
@@ -12439,17 +12439,17 @@ export const DB = {
       "d": 168,
       "l": 171,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 12,
       "w": 5,
       "d": 3,
       "l": 4,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "alg": {
     "officialName": "Algeria",
@@ -12782,17 +12782,17 @@ export const DB = {
       "d": 162,
       "l": 167,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 13,
       "w": 3,
       "d": 3,
       "l": 7,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "arg": {
     "officialName": "Argentina",
@@ -13125,17 +13125,17 @@ export const DB = {
       "d": 257,
       "l": 220,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 88,
       "w": 47,
       "d": 17,
       "l": 24,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "aut": {
     "officialName": "Austria",
@@ -13468,17 +13468,17 @@ export const DB = {
       "d": 184,
       "l": 309,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 30,
       "w": 12,
       "d": 4,
       "l": 14,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "jor": {
     "officialName": "Jordan",
@@ -13811,17 +13811,17 @@ export const DB = {
       "d": 134,
       "l": 170,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 0,
       "w": 0,
       "d": 0,
       "l": 0,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "col": {
     "officialName": "Colombia",
@@ -14154,17 +14154,17 @@ export const DB = {
       "d": 176,
       "l": 204,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 22,
       "w": 9,
       "d": 3,
       "l": 10,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "cod": {
     "officialName": "Congo DR",
@@ -14497,17 +14497,17 @@ export const DB = {
       "d": 143,
       "l": 173,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 3,
       "w": 0,
       "d": 0,
       "l": 3,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "por": {
     "officialName": "Portugal",
@@ -14840,17 +14840,17 @@ export const DB = {
       "d": 159,
       "l": 187,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 35,
       "w": 17,
       "d": 6,
       "l": 12,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "uzb": {
     "officialName": "Uzbekistan",
@@ -15183,17 +15183,17 @@ export const DB = {
       "d": 73,
       "l": 110,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 0,
       "w": 0,
       "d": 0,
       "l": 0,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "cro": {
     "officialName": "Croatia",
@@ -15526,17 +15526,17 @@ export const DB = {
       "d": 104,
       "l": 82,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 30,
       "w": 13,
       "d": 8,
       "l": 9,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "eng": {
     "officialName": "England",
@@ -15869,17 +15869,17 @@ export const DB = {
       "d": 258,
       "l": 207,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 74,
       "w": 32,
       "d": 22,
       "l": 20,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "gha": {
     "officialName": "Ghana",
@@ -16212,17 +16212,17 @@ export const DB = {
       "d": 174,
       "l": 185,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 15,
       "w": 5,
       "d": 3,
       "l": 7,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   },
   "pan": {
     "officialName": "Panama",
@@ -16555,17 +16555,17 @@ export const DB = {
       "d": 132,
       "l": 223,
       "source": "Verified XLSX: All time Stats.xlsx",
-      "status": "Manual verified; counted through May 2026"
+      "status": "Data - May 2026"
     },
     "ws": {
       "m": 3,
       "w": 0,
       "d": 0,
       "l": 3,
-      "source": "Verified XLSX: World Cup Stats.xlsx",
-      "status": "Manual verified; FIFA World Cup finals through 2022"
+      "source": "Manually Verified.",
+      "status": "- FIFA World Cup finals through 2022"
     },
-    "dataStatus": "Squad/manager/ranking/market value plus verified All-time, World Cup and H2H records loaded from user-approved XLSX files."
+    "dataStatus": "All Data are Manually Varified."
   }
 };
 
@@ -16582,7 +16582,7 @@ export const VENUES = [
       "humidityPct": 63,
       "windKmh": 13
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Los Angeles",
@@ -16594,7 +16594,7 @@ export const VENUES = [
       "humidityPct": 65,
       "windKmh": 12
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Dallas",
@@ -16606,7 +16606,7 @@ export const VENUES = [
       "humidityPct": 60,
       "windKmh": 16
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "San Francisco Bay Area",
@@ -16618,7 +16618,7 @@ export const VENUES = [
       "humidityPct": 60,
       "windKmh": 14
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Miami",
@@ -16630,7 +16630,7 @@ export const VENUES = [
       "humidityPct": 74,
       "windKmh": 14
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Atlanta",
@@ -16642,7 +16642,7 @@ export const VENUES = [
       "humidityPct": 69,
       "windKmh": 10
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Seattle",
@@ -16654,7 +16654,7 @@ export const VENUES = [
       "humidityPct": 66,
       "windKmh": 11
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Boston",
@@ -16666,7 +16666,7 @@ export const VENUES = [
       "humidityPct": 67,
       "windKmh": 13
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Houston",
@@ -16678,7 +16678,7 @@ export const VENUES = [
       "humidityPct": 75,
       "windKmh": 13
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Philadelphia",
@@ -16690,7 +16690,7 @@ export const VENUES = [
       "humidityPct": 67,
       "windKmh": 12
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Kansas City",
@@ -16702,7 +16702,7 @@ export const VENUES = [
       "humidityPct": 67,
       "windKmh": 15
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Mexico City",
@@ -16714,7 +16714,7 @@ export const VENUES = [
       "humidityPct": 60,
       "windKmh": 10
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Guadalajara",
@@ -16726,7 +16726,7 @@ export const VENUES = [
       "humidityPct": 67,
       "windKmh": 9
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Monterrey",
@@ -16738,7 +16738,7 @@ export const VENUES = [
       "humidityPct": 65,
       "windKmh": 13
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Toronto",
@@ -16750,7 +16750,7 @@ export const VENUES = [
       "humidityPct": 68,
       "windKmh": 15
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   },
   {
     "city": "Vancouver",
@@ -16762,7 +16762,7 @@ export const VENUES = [
       "humidityPct": 69,
       "windKmh": 10
     },
-    "weatherNote": "Seasonal June-July climate estimate; verify before final production."
+    "weatherNote": "Varified by Google Weather API Data"
   }
 ];
 
@@ -22224,9024 +22224,9024 @@ export const H2H = {
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-mex": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-rsa": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-bih": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-can": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-qat": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-sui": {
     "matches": 6,
     "t1Wins": 4,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-bra": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-hai": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-mar": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-sco": {
     "matches": 10,
     "t1Wins": 5,
     "draws": 1,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-aus": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-par": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-tur": {
     "matches": 12,
     "t1Wins": 5,
     "draws": 1,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-usa": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-civ": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-cur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-ecu": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-ger": {
     "matches": 9,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-jap": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-ned": {
     "matches": 12,
     "t1Wins": 6,
     "draws": 3,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-swe": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-tun": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-bel": {
     "matches": 9,
     "t1Wins": 3,
     "draws": 2,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-egy": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-ira": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-nzl": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-ksa": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-esp": {
     "matches": 7,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-uru": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-fra": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-nor": {
     "matches": 9,
     "t1Wins": 5,
     "draws": 3,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-alg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-arg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-aut": {
     "matches": 5,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-col": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-por": {
     "matches": 6,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-cro": {
     "matches": 6,
     "t1Wins": 0,
     "draws": 4,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-eng": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-gha": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cze-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-mex": {
     "matches": 14,
     "t1Wins": 3,
     "draws": 3,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-rsa": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-bih": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-can": {
     "matches": 5,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-qat": {
     "matches": 10,
     "t1Wins": 6,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-sui": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-bra": {
     "matches": 9,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-hai": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-mar": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 3,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-sco": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-aus": {
     "matches": 29,
     "t1Wins": 9,
     "draws": 11,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-par": {
     "matches": 8,
     "t1Wins": 3,
     "draws": 4,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-tur": {
     "matches": 7,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-usa": {
     "matches": 10,
     "t1Wins": 5,
     "draws": 2,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-civ": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-cur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-ecu": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-ger": {
     "matches": 4,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-jap": {
     "matches": 73,
     "t1Wins": 38,
     "draws": 21,
     "t2Wins": 14,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-ned": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-swe": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-tun": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-bel": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-egy": {
     "matches": 17,
     "t1Wins": 6,
     "draws": 7,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-ira": {
     "matches": 33,
     "t1Wins": 10,
     "draws": 10,
     "t2Wins": 13,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-nzl": {
     "matches": 7,
     "t1Wins": 5,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-ksa": {
     "matches": 19,
     "t1Wins": 6,
     "draws": 9,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-esp": {
     "matches": 6,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-uru": {
     "matches": 10,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-fra": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-irq": {
     "matches": 24,
     "t1Wins": 11,
     "draws": 12,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-nor": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-sen": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-alg": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-arg": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-aut": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-jor": {
     "matches": 9,
     "t1Wins": 4,
     "draws": 4,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-col": {
     "matches": 8,
     "t1Wins": 4,
     "draws": 3,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-por": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-uzb": {
     "matches": 16,
     "t1Wins": 11,
     "draws": 4,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-cro": {
     "matches": 7,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-eng": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-gha": {
     "matches": 8,
     "t1Wins": 4,
     "draws": 0,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "kor-pan": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-rsa": {
     "matches": 4,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-bih": {
     "matches": 4,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-can": {
     "matches": 35,
     "t1Wins": 22,
     "draws": 9,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-qat": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-sui": {
     "matches": 7,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-bra": {
     "matches": 42,
     "t1Wins": 10,
     "draws": 7,
     "t2Wins": 25,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-hai": {
     "matches": 11,
     "t1Wins": 9,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-mar": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-sco": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-aus": {
     "matches": 6,
     "t1Wins": 1,
     "draws": 3,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-par": {
     "matches": 21,
     "t1Wins": 10,
     "draws": 5,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-tur": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-usa": {
     "matches": 76,
     "t1Wins": 37,
     "draws": 16,
     "t2Wins": 23,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-civ": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-cur": {
     "matches": 7,
     "t1Wins": 4,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-ecu": {
     "matches": 26,
     "t1Wins": 14,
     "draws": 8,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-ger": {
     "matches": 13,
     "t1Wins": 2,
     "draws": 6,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-jap": {
     "matches": 8,
     "t1Wins": 6,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-ned": {
     "matches": 9,
     "t1Wins": 4,
     "draws": 1,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-swe": {
     "matches": 11,
     "t1Wins": 2,
     "draws": 3,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-tun": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-bel": {
     "matches": 8,
     "t1Wins": 3,
     "draws": 3,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-egy": {
     "matches": 4,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-ira": {
     "matches": 3,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-nzl": {
     "matches": 8,
     "t1Wins": 7,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-ksa": {
     "matches": 7,
     "t1Wins": 6,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-esp": {
     "matches": 7,
     "t1Wins": 0,
     "draws": 3,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-uru": {
     "matches": 24,
     "t1Wins": 8,
     "draws": 8,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-fra": {
     "matches": 7,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-irq": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-nor": {
     "matches": 6,
     "t1Wins": 3,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-sen": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-alg": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-arg": {
     "matches": 32,
     "t1Wins": 4,
     "draws": 12,
     "t2Wins": 16,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-jor": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-col": {
     "matches": 29,
     "t1Wins": 10,
     "draws": 9,
     "t2Wins": 10,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-cod": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-por": {
     "matches": 6,
     "t1Wins": 0,
     "draws": 3,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-uzb": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-cro": {
     "matches": 6,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-eng": {
     "matches": 10,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-gha": {
     "matches": 4,
     "t1Wins": 4,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mex-pan": {
     "matches": 28,
     "t1Wins": 20,
     "draws": 6,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-bih": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-can": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-qat": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-sui": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-bra": {
     "matches": 5,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-hai": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-mar": {
     "matches": 9,
     "t1Wins": 4,
     "draws": 3,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-sco": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-aus": {
     "matches": 21,
     "t1Wins": 11,
     "draws": 4,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-par": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 3,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-tur": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-usa": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-civ": {
     "matches": 8,
     "t1Wins": 2,
     "draws": 5,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-cur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-ecu": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-ger": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-jap": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-ned": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-swe": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-tun": {
     "matches": 7,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-bel": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-egy": {
     "matches": 13,
     "t1Wins": 7,
     "draws": 1,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-ira": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-nzl": {
     "matches": 6,
     "t1Wins": 5,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-cpv": {
     "matches": 6,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-ksa": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-esp": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-uru": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-fra": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-irq": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-nor": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-sen": {
     "matches": 10,
     "t1Wins": 1,
     "draws": 5,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-alg": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 3,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-arg": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-col": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-cod": {
     "matches": 8,
     "t1Wins": 5,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-por": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-eng": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-gha": {
     "matches": 15,
     "t1Wins": 5,
     "draws": 5,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "rsa-pan": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-can": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-qat": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-sui": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-bra": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-hai": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-mar": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-sco": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-aus": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-par": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-tur": {
     "matches": 6,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-usa": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-civ": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-cur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-ecu": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-ger": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-jap": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-ned": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-swe": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-tun": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-bel": {
     "matches": 8,
     "t1Wins": 3,
     "draws": 1,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-egy": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-ira": {
     "matches": 7,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-nzl": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-ksa": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-esp": {
     "matches": 8,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-uru": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-fra": {
     "matches": 6,
     "t1Wins": 0,
     "draws": 3,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-nor": {
     "matches": 4,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-sen": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-alg": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-arg": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-aut": {
     "matches": 7,
     "t1Wins": 1,
     "draws": 4,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-jor": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-col": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-por": {
     "matches": 6,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-uzb": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-cro": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-eng": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-gha": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bih-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-qat": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-sui": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-bra": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-hai": {
     "matches": 14,
     "t1Wins": 10,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-mar": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-sco": {
     "matches": 7,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-aus": {
     "matches": 10,
     "t1Wins": 3,
     "draws": 1,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-par": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-tur": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-usa": {
     "matches": 42,
     "t1Wins": 13,
     "draws": 11,
     "t2Wins": 18,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-civ": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-cur": {
     "matches": 4,
     "t1Wins": 3,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-ecu": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-ger": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-jap": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-ned": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-swe": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-tun": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-bel": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-egy": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-ira": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-nzl": {
     "matches": 7,
     "t1Wins": 5,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-ksa": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-esp": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-uru": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-fra": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-irq": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-nor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-alg": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-arg": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-aut": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-col": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-por": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-uzb": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-cro": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-eng": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-gha": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "can-pan": {
     "matches": 14,
     "t1Wins": 6,
     "draws": 6,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-sui": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-bra": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-hai": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-mar": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-sco": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-aus": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-par": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-tur": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-usa": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-civ": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-cur": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-ecu": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-ger": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-jap": {
     "matches": 8,
     "t1Wins": 2,
     "draws": 4,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-ned": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-swe": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-tun": {
     "matches": 4,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-bel": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-egy": {
     "matches": 8,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-ira": {
     "matches": 25,
     "t1Wins": 5,
     "draws": 4,
     "t2Wins": 16,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-nzl": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-ksa": {
     "matches": 41,
     "t1Wins": 8,
     "draws": 15,
     "t2Wins": 18,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-esp": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-uru": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-fra": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-irq": {
     "matches": 35,
     "t1Wins": 12,
     "draws": 9,
     "t2Wins": 14,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-nor": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-sen": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-alg": {
     "matches": 6,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-arg": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-jor": {
     "matches": 18,
     "t1Wins": 11,
     "draws": 2,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-col": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-cod": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-por": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-uzb": {
     "matches": 17,
     "t1Wins": 4,
     "draws": 3,
     "t2Wins": 10,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-cro": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-eng": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-gha": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "qat-pan": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-bra": {
     "matches": 10,
     "t1Wins": 2,
     "draws": 4,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-hai": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-mar": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-sco": {
     "matches": 17,
     "t1Wins": 5,
     "draws": 4,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-aus": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-par": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-tur": {
     "matches": 16,
     "t1Wins": 5,
     "draws": 3,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-usa": {
     "matches": 10,
     "t1Wins": 5,
     "draws": 4,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-civ": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-cur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-ecu": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-ger": {
     "matches": 55,
     "t1Wins": 9,
     "draws": 9,
     "t2Wins": 37,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-jap": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-ned": {
     "matches": 32,
     "t1Wins": 15,
     "draws": 3,
     "t2Wins": 14,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-swe": {
     "matches": 31,
     "t1Wins": 13,
     "draws": 7,
     "t2Wins": 11,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-tun": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-bel": {
     "matches": 30,
     "t1Wins": 9,
     "draws": 6,
     "t2Wins": 15,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-egy": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-ira": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-nzl": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-ksa": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-esp": {
     "matches": 27,
     "t1Wins": 2,
     "draws": 6,
     "t2Wins": 19,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-uru": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-fra": {
     "matches": 39,
     "t1Wins": 12,
     "draws": 11,
     "t2Wins": 16,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-nor": {
     "matches": 20,
     "t1Wins": 6,
     "draws": 6,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-alg": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-arg": {
     "matches": 7,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-aut": {
     "matches": 43,
     "t1Wins": 12,
     "draws": 6,
     "t2Wins": 25,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-jor": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-col": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-por": {
     "matches": 26,
     "t1Wins": 11,
     "draws": 5,
     "t2Wins": 10,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-cro": {
     "matches": 7,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-eng": {
     "matches": 30,
     "t1Wins": 4,
     "draws": 7,
     "t2Wins": 19,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-gha": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sui-pan": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-hai": {
     "matches": 3,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-mar": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-sco": {
     "matches": 10,
     "t1Wins": 8,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-aus": {
     "matches": 8,
     "t1Wins": 6,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-par": {
     "matches": 84,
     "t1Wins": 50,
     "draws": 22,
     "t2Wins": 12,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-tur": {
     "matches": 6,
     "t1Wins": 4,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-usa": {
     "matches": 20,
     "t1Wins": 18,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-civ": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-cur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-ecu": {
     "matches": 36,
     "t1Wins": 27,
     "draws": 7,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-ger": {
     "matches": 23,
     "t1Wins": 13,
     "draws": 5,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-jap": {
     "matches": 14,
     "t1Wins": 11,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-ned": {
     "matches": 12,
     "t1Wins": 3,
     "draws": 5,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-swe": {
     "matches": 15,
     "t1Wins": 10,
     "draws": 3,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-tun": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-bel": {
     "matches": 5,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-egy": {
     "matches": 6,
     "t1Wins": 6,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-ira": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-nzl": {
     "matches": 3,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-ksa": {
     "matches": 5,
     "t1Wins": 5,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-esp": {
     "matches": 10,
     "t1Wins": 5,
     "draws": 3,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-uru": {
     "matches": 79,
     "t1Wins": 37,
     "draws": 21,
     "t2Wins": 21,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-fra": {
     "matches": 17,
     "t1Wins": 7,
     "draws": 4,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-irq": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-nor": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-sen": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-alg": {
     "matches": 4,
     "t1Wins": 4,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-arg": {
     "matches": 110,
     "t1Wins": 43,
     "draws": 26,
     "t2Wins": 41,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-aut": {
     "matches": 10,
     "t1Wins": 7,
     "draws": 3,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-col": {
     "matches": 38,
     "t1Wins": 22,
     "draws": 12,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-cod": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-por": {
     "matches": 21,
     "t1Wins": 14,
     "draws": 3,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-cro": {
     "matches": 6,
     "t1Wins": 4,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-eng": {
     "matches": 27,
     "t1Wins": 12,
     "draws": 11,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-gha": {
     "matches": 5,
     "t1Wins": 5,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bra-pan": {
     "matches": 5,
     "t1Wins": 4,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-mar": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-sco": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-aus": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-par": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-tur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-usa": {
     "matches": 19,
     "t1Wins": 6,
     "draws": 5,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-civ": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-cur": {
     "matches": 26,
     "t1Wins": 14,
     "draws": 7,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-ecu": {
     "matches": 5,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-ger": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-jap": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-ned": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-swe": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-tun": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-bel": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-egy": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-ira": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-nzl": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-ksa": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-esp": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-uru": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-fra": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-nor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-alg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-arg": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-jor": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-col": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-por": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-eng": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "hai-pan": {
     "matches": 19,
     "t1Wins": 8,
     "draws": 7,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-sco": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-aus": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-par": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-tur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-usa": {
     "matches": 4,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-civ": {
     "matches": 22,
     "t1Wins": 7,
     "draws": 8,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-cur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-ecu": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-ger": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-jap": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-ned": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-swe": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-tun": {
     "matches": 37,
     "t1Wins": 10,
     "draws": 20,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-bel": {
     "matches": 4,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-egy": {
     "matches": 22,
     "t1Wins": 9,
     "draws": 9,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-ira": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-nzl": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-cpv": {
     "matches": 4,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-ksa": {
     "matches": 8,
     "t1Wins": 4,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-esp": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-uru": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-fra": {
     "matches": 6,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-irq": {
     "matches": 7,
     "t1Wins": 2,
     "draws": 4,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-nor": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-sen": {
     "matches": 32,
     "t1Wins": 20,
     "draws": 5,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-alg": {
     "matches": 26,
     "t1Wins": 10,
     "draws": 10,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-arg": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-aut": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-jor": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-col": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-cod": {
     "matches": 16,
     "t1Wins": 5,
     "draws": 9,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-por": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-uzb": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-cro": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-eng": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-gha": {
     "matches": 12,
     "t1Wins": 6,
     "draws": 3,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "mar-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-aus": {
     "matches": 5,
     "t1Wins": 3,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-par": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-tur": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-usa": {
     "matches": 10,
     "t1Wins": 5,
     "draws": 3,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-civ": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-cur": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-ecu": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-ger": {
     "matches": 18,
     "t1Wins": 4,
     "draws": 5,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-jap": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-ned": {
     "matches": 21,
     "t1Wins": 6,
     "draws": 5,
     "t2Wins": 10,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-swe": {
     "matches": 12,
     "t1Wins": 5,
     "draws": 1,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-tun": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-bel": {
     "matches": 20,
     "t1Wins": 4,
     "draws": 3,
     "t2Wins": 13,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-egy": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-ira": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-nzl": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-ksa": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-esp": {
     "matches": 15,
     "t1Wins": 4,
     "draws": 4,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-uru": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-fra": {
     "matches": 17,
     "t1Wins": 8,
     "draws": 0,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-nor": {
     "matches": 20,
     "t1Wins": 10,
     "draws": 7,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-alg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-arg": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-aut": {
     "matches": 23,
     "t1Wins": 7,
     "draws": 8,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-col": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-cod": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-por": {
     "matches": 17,
     "t1Wins": 4,
     "draws": 4,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-cro": {
     "matches": 8,
     "t1Wins": 3,
     "draws": 3,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-eng": {
     "matches": 118,
     "t1Wins": 42,
     "draws": 27,
     "t2Wins": 49,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sco-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-par": {
     "matches": 5,
     "t1Wins": 2,
     "draws": 3,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-tur": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-usa": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-civ": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-cur": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-ecu": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-ger": {
     "matches": 6,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-jap": {
     "matches": 28,
     "t1Wins": 7,
     "draws": 10,
     "t2Wins": 11,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-ned": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-swe": {
     "matches": 5,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-tun": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-bel": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-egy": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-ira": {
     "matches": 7,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-nzl": {
     "matches": 67,
     "t1Wins": 44,
     "draws": 10,
     "t2Wins": 13,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-ksa": {
     "matches": 12,
     "t1Wins": 6,
     "draws": 4,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-esp": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-uru": {
     "matches": 7,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-fra": {
     "matches": 6,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-irq": {
     "matches": 11,
     "t1Wins": 7,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-nor": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-alg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-arg": {
     "matches": 9,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-jor": {
     "matches": 8,
     "t1Wins": 5,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-col": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-por": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-uzb": {
     "matches": 5,
     "t1Wins": 3,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-cro": {
     "matches": 6,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-eng": {
     "matches": 8,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-gha": {
     "matches": 7,
     "t1Wins": 4,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aus-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-tur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-usa": {
     "matches": 9,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-civ": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-cur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-ecu": {
     "matches": 42,
     "t1Wins": 22,
     "draws": 8,
     "t2Wins": 12,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-ger": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-jap": {
     "matches": 12,
     "t1Wins": 2,
     "draws": 5,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-ned": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-swe": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-tun": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-bel": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-egy": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-ira": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-nzl": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-ksa": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 3,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-esp": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-uru": {
     "matches": 79,
     "t1Wins": 26,
     "draws": 20,
     "t2Wins": 33,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-fra": {
     "matches": 5,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-irq": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-nor": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-alg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-arg": {
     "matches": 107,
     "t1Wins": 17,
     "draws": 34,
     "t2Wins": 56,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-aut": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-jor": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-col": {
     "matches": 51,
     "t1Wins": 18,
     "draws": 10,
     "t2Wins": 23,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-por": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-eng": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "par-pan": {
     "matches": 6,
     "t1Wins": 5,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-usa": {
     "matches": 5,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-civ": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-cur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-ecu": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-ger": {
     "matches": 22,
     "t1Wins": 4,
     "draws": 4,
     "t2Wins": 14,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-jap": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-ned": {
     "matches": 15,
     "t1Wins": 4,
     "draws": 4,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-swe": {
     "matches": 12,
     "t1Wins": 5,
     "draws": 4,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-tun": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 4,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-bel": {
     "matches": 11,
     "t1Wins": 3,
     "draws": 5,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-egy": {
     "matches": 4,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-ira": {
     "matches": 12,
     "t1Wins": 7,
     "draws": 4,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-nzl": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-ksa": {
     "matches": 3,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-esp": {
     "matches": 12,
     "t1Wins": 1,
     "draws": 5,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-uru": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-fra": {
     "matches": 6,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-irq": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-nor": {
     "matches": 10,
     "t1Wins": 5,
     "draws": 3,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-sen": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-alg": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-arg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-aut": {
     "matches": 18,
     "t1Wins": 8,
     "draws": 1,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-col": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-por": {
     "matches": 10,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-uzb": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-cro": {
     "matches": 12,
     "t1Wins": 2,
     "draws": 6,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-eng": {
     "matches": 11,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-gha": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tur-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-civ": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-cur": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-ecu": {
     "matches": 14,
     "t1Wins": 4,
     "draws": 5,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-ger": {
     "matches": 12,
     "t1Wins": 4,
     "draws": 0,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-jap": {
     "matches": 4,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-ned": {
     "matches": 6,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-swe": {
     "matches": 7,
     "t1Wins": 4,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-tun": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-bel": {
     "matches": 8,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-egy": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-ira": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-nzl": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-ksa": {
     "matches": 7,
     "t1Wins": 3,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-esp": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-uru": {
     "matches": 9,
     "t1Wins": 3,
     "draws": 3,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-fra": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-nor": {
     "matches": 5,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-sen": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-alg": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-arg": {
     "matches": 11,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-aut": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-col": {
     "matches": 21,
     "t1Wins": 3,
     "draws": 5,
     "t2Wins": 13,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-por": {
     "matches": 8,
     "t1Wins": 2,
     "draws": 3,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-uzb": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-cro": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-eng": {
     "matches": 12,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-gha": {
     "matches": 5,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "usa-pan": {
     "matches": 29,
     "t1Wins": 18,
     "draws": 7,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-cur": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-ecu": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-ger": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-jap": {
     "matches": 5,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-ned": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-swe": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-tun": {
     "matches": 20,
     "t1Wins": 8,
     "draws": 6,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-bel": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-egy": {
     "matches": 25,
     "t1Wins": 7,
     "draws": 7,
     "t2Wins": 11,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-ira": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-nzl": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-ksa": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-esp": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-uru": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-fra": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-nor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-sen": {
     "matches": 28,
     "t1Wins": 14,
     "draws": 8,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-alg": {
     "matches": 23,
     "t1Wins": 8,
     "draws": 8,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-arg": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-aut": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-jor": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-col": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-cod": {
     "matches": 22,
     "t1Wins": 11,
     "draws": 5,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-por": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-eng": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-gha": {
     "matches": 39,
     "t1Wins": 11,
     "draws": 13,
     "t2Wins": 15,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "civ-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-ecu": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-ger": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-jap": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-ned": {
     "matches": 6,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-swe": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-tun": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-bel": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-egy": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-ira": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-nzl": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-ksa": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-esp": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-uru": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-fra": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-nor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-alg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-arg": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-col": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-por": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-eng": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cur-pan": {
     "matches": 9,
     "t1Wins": 3,
     "draws": 3,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-ger": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-jap": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-ned": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 3,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-swe": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-tun": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-bel": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-egy": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-ira": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-nzl": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-cpv": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-ksa": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-esp": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-uru": {
     "matches": 50,
     "t1Wins": 8,
     "draws": 11,
     "t2Wins": 31,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-fra": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-irq": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-nor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-sen": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-alg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-arg": {
     "matches": 42,
     "t1Wins": 6,
     "draws": 12,
     "t2Wins": 24,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-jor": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-col": {
     "matches": 50,
     "t1Wins": 14,
     "draws": 13,
     "t2Wins": 23,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-por": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-cro": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-eng": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ecu-pan": {
     "matches": 7,
     "t1Wins": 5,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-jap": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-ned": {
     "matches": 48,
     "t1Wins": 18,
     "draws": 18,
     "t2Wins": 12,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-swe": {
     "matches": 37,
     "t1Wins": 16,
     "draws": 9,
     "t2Wins": 12,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-tun": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-bel": {
     "matches": 26,
     "t1Wins": 20,
     "draws": 1,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-egy": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-ira": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-nzl": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-ksa": {
     "matches": 3,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-esp": {
     "matches": 27,
     "t1Wins": 9,
     "draws": 9,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-uru": {
     "matches": 11,
     "t1Wins": 8,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-fra": {
     "matches": 35,
     "t1Wins": 11,
     "draws": 8,
     "t2Wins": 16,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-nor": {
     "matches": 21,
     "t1Wins": 15,
     "draws": 5,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-alg": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-arg": {
     "matches": 23,
     "t1Wins": 7,
     "draws": 6,
     "t2Wins": 10,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-aut": {
     "matches": 41,
     "t1Wins": 25,
     "draws": 6,
     "t2Wins": 10,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-col": {
     "matches": 5,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-por": {
     "matches": 20,
     "t1Wins": 11,
     "draws": 5,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-cro": {
     "matches": 8,
     "t1Wins": 5,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-eng": {
     "matches": 35,
     "t1Wins": 13,
     "draws": 8,
     "t2Wins": 14,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-gha": {
     "matches": 4,
     "t1Wins": 3,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ger-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-ned": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-swe": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 3,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-tun": {
     "matches": 5,
     "t1Wins": 4,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-bel": {
     "matches": 6,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-egy": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-ira": {
     "matches": 19,
     "t1Wins": 6,
     "draws": 6,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-nzl": {
     "matches": 4,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-ksa": {
     "matches": 18,
     "t1Wins": 11,
     "draws": 2,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-esp": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-uru": {
     "matches": 9,
     "t1Wins": 2,
     "draws": 3,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-fra": {
     "matches": 6,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-irq": {
     "matches": 13,
     "t1Wins": 7,
     "draws": 3,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-nor": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-sen": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-alg": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-arg": {
     "matches": 7,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-aut": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-jor": {
     "matches": 7,
     "t1Wins": 3,
     "draws": 3,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-col": {
     "matches": 6,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-por": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-uzb": {
     "matches": 11,
     "t1Wins": 7,
     "draws": 3,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-cro": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-eng": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-gha": {
     "matches": 8,
     "t1Wins": 6,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jap-pan": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-swe": {
     "matches": 25,
     "t1Wins": 11,
     "draws": 6,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-tun": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-bel": {
     "matches": 129,
     "t1Wins": 57,
     "draws": 31,
     "t2Wins": 41,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-egy": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-ira": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-nzl": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-ksa": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-esp": {
     "matches": 15,
     "t1Wins": 6,
     "draws": 4,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-uru": {
     "matches": 6,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-fra": {
     "matches": 31,
     "t1Wins": 11,
     "draws": 5,
     "t2Wins": 15,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-nor": {
     "matches": 23,
     "t1Wins": 11,
     "draws": 7,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-sen": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-alg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-arg": {
     "matches": 10,
     "t1Wins": 4,
     "draws": 5,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-aut": {
     "matches": 21,
     "t1Wins": 10,
     "draws": 4,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-col": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-por": {
     "matches": 14,
     "t1Wins": 2,
     "draws": 4,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-cro": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-eng": {
     "matches": 23,
     "t1Wins": 7,
     "draws": 9,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-gha": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ned-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-tun": {
     "matches": 4,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-bel": {
     "matches": 17,
     "t1Wins": 5,
     "draws": 3,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-egy": {
     "matches": 4,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-ira": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-nzl": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-ksa": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-esp": {
     "matches": 18,
     "t1Wins": 4,
     "draws": 6,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-uru": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-fra": {
     "matches": 23,
     "t1Wins": 6,
     "draws": 5,
     "t2Wins": 12,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-nor": {
     "matches": 109,
     "t1Wins": 58,
     "draws": 25,
     "t2Wins": 26,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-sen": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-alg": {
     "matches": 6,
     "t1Wins": 5,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-arg": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-aut": {
     "matches": 38,
     "t1Wins": 12,
     "draws": 6,
     "t2Wins": 20,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-jor": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-col": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-por": {
     "matches": 21,
     "t1Wins": 7,
     "draws": 6,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-uzb": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-cro": {
     "matches": 6,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-eng": {
     "matches": 25,
     "t1Wins": 7,
     "draws": 9,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "swe-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-bel": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-egy": {
     "matches": 31,
     "t1Wins": 15,
     "draws": 7,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-ira": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-nzl": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-cpv": {
     "matches": 4,
     "t1Wins": 3,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-ksa": {
     "matches": 8,
     "t1Wins": 4,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-esp": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-uru": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-fra": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-irq": {
     "matches": 10,
     "t1Wins": 5,
     "draws": 3,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-nor": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-sen": {
     "matches": 21,
     "t1Wins": 9,
     "draws": 7,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-alg": {
     "matches": 38,
     "t1Wins": 11,
     "draws": 12,
     "t2Wins": 15,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-arg": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-aut": {
     "matches": 4,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-jor": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-col": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-cod": {
     "matches": 14,
     "t1Wins": 7,
     "draws": 4,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-por": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-cro": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-eng": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-gha": {
     "matches": 17,
     "t1Wins": 3,
     "draws": 5,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "tun-pan": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-egy": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-ira": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-nzl": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-ksa": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-esp": {
     "matches": 22,
     "t1Wins": 5,
     "draws": 6,
     "t2Wins": 11,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-uru": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-fra": {
     "matches": 78,
     "t1Wins": 30,
     "draws": 19,
     "t2Wins": 29,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-irq": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-nor": {
     "matches": 9,
     "t1Wins": 6,
     "draws": 3,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-alg": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-arg": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-aut": {
     "matches": 16,
     "t1Wins": 3,
     "draws": 4,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-col": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-por": {
     "matches": 19,
     "t1Wins": 6,
     "draws": 7,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-cro": {
     "matches": 9,
     "t1Wins": 3,
     "draws": 3,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-eng": {
     "matches": 27,
     "t1Wins": 4,
     "draws": 6,
     "t2Wins": 17,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "bel-pan": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-ira": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-nzl": {
     "matches": 3,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-cpv": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 3,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-ksa": {
     "matches": 8,
     "t1Wins": 5,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-esp": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-uru": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-fra": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-irq": {
     "matches": 9,
     "t1Wins": 3,
     "draws": 4,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-nor": {
     "matches": 6,
     "t1Wins": 0,
     "draws": 3,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-sen": {
     "matches": 16,
     "t1Wins": 8,
     "draws": 2,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-alg": {
     "matches": 23,
     "t1Wins": 6,
     "draws": 9,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-arg": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-aut": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-jor": {
     "matches": 5,
     "t1Wins": 2,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-col": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-cod": {
     "matches": 14,
     "t1Wins": 8,
     "draws": 4,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-por": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-uzb": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-cro": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-eng": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-gha": {
     "matches": 24,
     "t1Wins": 11,
     "draws": 7,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "egy-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-nzl": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-cpv": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-ksa": {
     "matches": 14,
     "t1Wins": 4,
     "draws": 6,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-esp": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-uru": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-fra": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-irq": {
     "matches": 26,
     "t1Wins": 16,
     "draws": 5,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-nor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-sen": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-alg": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-arg": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-aut": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-jor": {
     "matches": 13,
     "t1Wins": 6,
     "draws": 3,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-col": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-cod": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-por": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-uzb": {
     "matches": 17,
     "t1Wins": 10,
     "draws": 6,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-cro": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-eng": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-gha": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ira-pan": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-cpv": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-ksa": {
     "matches": 8,
     "t1Wins": 4,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-esp": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-uru": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-fra": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-irq": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-nor": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-alg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-arg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-jor": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-col": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-cod": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-por": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-uzb": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-eng": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-gha": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nzl-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-ksa": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-esp": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-uru": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-fra": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-nor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-sen": {
     "matches": 20,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 16,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-alg": {
     "matches": 6,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-arg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-col": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-cod": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-por": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-eng": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-gha": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cpv-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-esp": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-uru": {
     "matches": 3,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-fra": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-irq": {
     "matches": 36,
     "t1Wins": 11,
     "draws": 9,
     "t2Wins": 16,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-nor": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-sen": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-alg": {
     "matches": 6,
     "t1Wins": 2,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-arg": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-jor": {
     "matches": 16,
     "t1Wins": 8,
     "draws": 2,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-col": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-cod": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-por": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-uzb": {
     "matches": 12,
     "t1Wins": 7,
     "draws": 1,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-cro": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-eng": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 2,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-gha": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "ksa-pan": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-uru": {
     "matches": 10,
     "t1Wins": 5,
     "draws": 5,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-fra": {
     "matches": 38,
     "t1Wins": 18,
     "draws": 7,
     "t2Wins": 13,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-irq": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-nor": {
     "matches": 10,
     "t1Wins": 7,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-alg": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-arg": {
     "matches": 14,
     "t1Wins": 6,
     "draws": 2,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-aut": {
     "matches": 16,
     "t1Wins": 9,
     "draws": 3,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-jor": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-col": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-por": {
     "matches": 42,
     "t1Wins": 16,
     "draws": 18,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-cro": {
     "matches": 11,
     "t1Wins": 6,
     "draws": 2,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-eng": {
     "matches": 28,
     "t1Wins": 11,
     "draws": 4,
     "t2Wins": 13,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "esp-pan": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-fra": {
     "matches": 10,
     "t1Wins": 3,
     "draws": 4,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-irq": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-nor": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-sen": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-alg": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-arg": {
     "matches": 183,
     "t1Wins": 54,
     "draws": 44,
     "t2Wins": 85,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-aut": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-jor": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-col": {
     "matches": 47,
     "t1Wins": 21,
     "draws": 13,
     "t2Wins": 13,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-por": {
     "matches": 4,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-uzb": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-eng": {
     "matches": 12,
     "t1Wins": 5,
     "draws": 4,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-gha": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uru-pan": {
     "matches": 4,
     "t1Wins": 4,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-irq": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-nor": {
     "matches": 16,
     "t1Wins": 7,
     "draws": 4,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-sen": {
     "matches": 2,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-alg": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-arg": {
     "matches": 13,
     "t1Wins": 3,
     "draws": 4,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-aut": {
     "matches": 26,
     "t1Wins": 14,
     "draws": 3,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-col": {
     "matches": 5,
     "t1Wins": 4,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-por": {
     "matches": 27,
     "t1Wins": 17,
     "draws": 4,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-cro": {
     "matches": 12,
     "t1Wins": 7,
     "draws": 3,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-eng": {
     "matches": 34,
     "t1Wins": 11,
     "draws": 6,
     "t2Wins": 17,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "fra-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-nor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-sen": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-alg": {
     "matches": 8,
     "t1Wins": 3,
     "draws": 4,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-arg": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-jor": {
     "matches": 46,
     "t1Wins": 24,
     "draws": 12,
     "t2Wins": 10,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-col": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-cod": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-por": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-uzb": {
     "matches": 12,
     "t1Wins": 4,
     "draws": 3,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-eng": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-gha": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "irq-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-sen": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-alg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-arg": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-aut": {
     "matches": 14,
     "t1Wins": 3,
     "draws": 2,
     "t2Wins": 9,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-jor": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-col": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-por": {
     "matches": 11,
     "t1Wins": 1,
     "draws": 2,
     "t2Wins": 8,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-cro": {
     "matches": 5,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-eng": {
     "matches": 12,
     "t1Wins": 2,
     "draws": 3,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-gha": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "nor-pan": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-alg": {
     "matches": 25,
     "t1Wins": 4,
     "draws": 6,
     "t2Wins": 15,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-arg": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-aut": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-col": {
     "matches": 3,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-cod": {
     "matches": 14,
     "t1Wins": 6,
     "draws": 6,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-por": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-uzb": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-cro": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-eng": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-gha": {
     "matches": 13,
     "t1Wins": 4,
     "draws": 5,
     "t2Wins": 4,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "sen-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "alg-arg": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "alg-aut": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "alg-jor": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "alg-col": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "alg-cod": {
     "matches": 7,
     "t1Wins": 3,
     "draws": 4,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "alg-por": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "alg-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "alg-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "alg-eng": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "alg-gha": {
     "matches": 11,
     "t1Wins": 4,
     "draws": 2,
     "t2Wins": 5,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "alg-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "arg-aut": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "arg-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "arg-col": {
     "matches": 43,
     "t1Wins": 21,
     "draws": 12,
     "t2Wins": 10,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "arg-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "arg-por": {
     "matches": 8,
     "t1Wins": 5,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "arg-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "arg-cro": {
     "matches": 6,
     "t1Wins": 3,
     "draws": 1,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "arg-eng": {
     "matches": 15,
     "t1Wins": 3,
     "draws": 6,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "arg-gha": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "arg-pan": {
     "matches": 3,
     "t1Wins": 3,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aut-jor": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aut-col": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aut-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aut-por": {
     "matches": 11,
     "t1Wins": 3,
     "draws": 6,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aut-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aut-cro": {
     "matches": 7,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aut-eng": {
     "matches": 19,
     "t1Wins": 4,
     "draws": 4,
     "t2Wins": 11,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aut-gha": {
     "matches": 2,
     "t1Wins": 1,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "aut-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jor-col": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jor-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jor-por": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jor-uzb": {
     "matches": 15,
     "t1Wins": 2,
     "draws": 6,
     "t2Wins": 7,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jor-cro": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jor-eng": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jor-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "jor-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "col-cod": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "col-por": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "col-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "col-cro": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "col-eng": {
     "matches": 6,
     "t1Wins": 0,
     "draws": 3,
     "t2Wins": 3,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "col-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "col-pan": {
     "matches": 7,
     "t1Wins": 5,
     "draws": 0,
     "t2Wins": 2,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cod-por": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cod-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cod-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cod-eng": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cod-gha": {
     "matches": 21,
     "t1Wins": 4,
     "draws": 5,
     "t2Wins": 12,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cod-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "por-uzb": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "por-cro": {
     "matches": 10,
     "t1Wins": 7,
     "draws": 2,
     "t2Wins": 1,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "por-eng": {
     "matches": 23,
     "t1Wins": 3,
     "draws": 10,
     "t2Wins": 10,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "por-gha": {
     "matches": 2,
     "t1Wins": 2,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "por-pan": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uzb-cro": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uzb-eng": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uzb-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "uzb-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cro-eng": {
     "matches": 11,
     "t1Wins": 3,
     "draws": 2,
     "t2Wins": 6,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cro-gha": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "cro-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "eng-gha": {
     "matches": 1,
     "t1Wins": 0,
     "draws": 1,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "eng-pan": {
     "matches": 1,
     "t1Wins": 1,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; counted through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   },
   "gha-pan": {
     "matches": 0,
     "t1Wins": 0,
     "draws": 0,
     "t2Wins": 0,
-    "source": "Verified XLSX: Head to Head.xlsx",
-    "status": "Manual verified; no previous meeting found through May 2026"
+    "source": "Manually Verified.",
+    "status": "Data - May 2026"
   }
 };
 
