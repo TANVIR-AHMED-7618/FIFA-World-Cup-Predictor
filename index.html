@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FIFA World Cup 2026 - Prediction</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>⚽ FIFA World Cup 2026</h1>
+  <p>Prediction Simulator — By Tanvir Ahmed</p>
+</header>
+<div class="steps">
+  <div class="si active" id="si-0"><span class="sd">1</span>Groups</div><span class="sa">›</span>
+  <div class="si" id="si-1"><span class="sd">2</span>3rd Place</div><span class="sa">›</span>
+  <div class="si" id="si-2"><span class="sd">3</span>R32</div><span class="sa">›</span>
+  <div class="si" id="si-3"><span class="sd">4</span>R16</div><span class="sa">›</span>
+  <div class="si" id="si-4"><span class="sd">5</span>QF</div><span class="sa">›</span>
+  <div class="si" id="si-5"><span class="sd">6</span>SF</div><span class="sa">›</span>
+  <div class="si" id="si-6"><span class="sd">7</span>Final</div>
+</div>
+<div class="notif" id="notif"></div>
+<div class="lbg" id="lbg"><div class="sp"></div><p style="color:var(--gold);font-size:.82rem;">Creating photocard...</p></div>
+<div class="wrap">
+
+  <div class="phase active" id="ph-0">
+    <div class="sec-t"><h2>🏆 Group Stage</h2><p>Use ▲▼ to rank teams in each group</p></div>
+    <div class="gg" id="groupsGrid"></div>
+    <div class="ab"><button class="btn bg" onclick="doneGroups()">Next: Pick 3rd Place Teams →</button></div>
+  </div>
+
+  <div class="phase" id="ph-1">
+    <div class="sec-t"><h2>🥉 Best 3rd Place Teams</h2><p>Pick exactly <strong style="color:var(--gold)">8 teams</strong> from 12 group 3rd-place finishers</p></div>
+    <div class="sc" id="selCount">Selected: 0 / 8</div>
+    <div id="comboInfo"></div>
+    <div class="tg" id="thirdGrid"></div>
+    <div class="ab">
+      <button class="btn bo" onclick="goPhase(0)">← Back</button>
+      <button class="btn bg" onclick="doneThird()">Next: Round of 32 →</button>
+    </div>
+  </div>
+
+  <div class="phase" id="ph-2">
+    <div class="sec-t"><h2>⚔️ Round of 32</h2><p>Click a team name to select as winner</p></div>
+    <div class="bracket-scroll"><div id="r32root"></div></div>
+    <div class="ab">
+      <button class="btn bo" onclick="goPhase(1)">← Back</button>
+      <button class="btn bg" onclick="advanceR32()">Next: Round of 16 →</button>
+    </div>
+  </div>
+
+  <div class="phase" id="ph-3">
+    <div class="sec-t"><h2>⚔️ Round of 16</h2><p>Click a team name to select as winner</p></div>
+    <div class="bracket-scroll"><div id="r16root"></div></div>
+    <div class="ab">
+      <button class="btn bo" onclick="goPhase(2)">← Back</button>
+      <button class="btn bg" onclick="advanceR16()">Next: Quarter Finals →</button>
+    </div>
+  </div>
+
+  <div class="phase" id="ph-4">
+    <div class="sec-t"><h2>🏅 Quarter Finals</h2><p>Click a team name to select as winner</p></div>
+    <div class="bracket-scroll"><div id="qfroot"></div></div>
+    <div class="ab">
+      <button class="btn bo" onclick="goPhase(3)">← Back</button>
+      <button class="btn bg" onclick="advanceQF()">Next: Semi Finals →</button>
+    </div>
+  </div>
+
+  <div class="phase" id="ph-5">
+    <div class="sec-t"><h2>🏅 Semi Finals</h2><p>Click a team name to select as winner</p></div>
+    <div class="bracket-scroll"><div id="sfroot"></div></div>
+    <div class="ab">
+      <button class="btn bo" onclick="goPhase(4)">← Back</button>
+      <button class="btn bg" onclick="advanceSF()">Next: The Final →</button>
+    </div>
+  </div>
+
+  <div class="phase" id="ph-6">
+    <div class="sec-t"><h2>🏆 The Final</h2><p>Who will be the 2026 World Cup Champion?</p></div>
+    <div style="max-width:360px;margin:0 auto 18px;"><div class="b-final-box" id="finalCard"></div></div>
+    <div class="champ-box" id="champBox" style="display:none;">
+      <div class="tr">🏆</div><h3>YOUR PREDICTED CHAMPION</h3>
+      <div class="champ-name" id="champName"></div>
+    </div>
+    <div class="ab">
+      <button class="btn bo" onclick="goPhase(5)">← Back</button>
+      <button class="btn bge" id="genBtn" style="display:none;" onclick="openModal()">🎨 Generate Photocard</button>
+    </div>
+  </div>
+
+  <div class="pcp" id="pcPreview">
+    <div class="sec-t"><h2>🎨 Your Prediction Photocard</h2></div>
+    <img id="pcImg" src="" alt="Photocard">
+    <div class="pca">
+      <button class="btn bg" onclick="dlPC()">⬇️ Download PNG</button>
+      <button class="btn bo" onclick="resetAll()">🔄 New Prediction</button>
+    </div>
+  </div>
+</div>
+
+<div class="mbg" id="nameModal">
+  <div class="mb">
+    <h3>📝 Enter Your Name</h3>
+    <p>Your name will appear on the prediction photocard</p>
+    <input type="text" id="nameInput" placeholder="Your name..." maxlength="35">
+    <div class="mbs">
+      <button class="btn bo" onclick="closeModal()">Cancel</button>
+      <button class="btn bge" onclick="makeCard()">Create Photocard 🎨</button>
+    </div>
+  </div>
+</div>
+
+<!-- Predefined stat modal container (app.js will reuse/overwrite it via showStatModal) -->
+<div id="statModalBg" class="stat-modal-bg" aria-hidden="true" style="display:none;">
+  <div class="stat-modal">
+    <button class="close-btn" onclick="document.getElementById('statModalBg').classList.remove('show')">✕</button>
+    <div id="statModalContent"></div>
+  </div>
+</div>
+
+<canvas id="cvs"></canvas>
+
+<footer class="site-footer">
+  <p>Tanvir Ahmed - 2026 @ All Right Reserve</p>
+  <p>Email : tanvir15@cse.pstu.ac.bd</p>
+</footer>
+<!-- <script src="app.js"></script> -->
+<!-- <script type="module" src="function.js"></script> -->
+ <script type="module" src="work.js"></script>
+</body>
+</html>
